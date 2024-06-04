@@ -1,4 +1,4 @@
-export const BASE_PATH = import.meta.env.VITE_API_URL || "http://45.157.233.37:25572"
+export const BASE_PATH = import.meta.env.VITE_API_URL || "https://45.157.233.37:25572"
 export const INVITE_URL = import.meta.env.VITE_INVITE_URL || "https://discord.com/oauth2/authorize?client_id=1146091634203824140&permissions=8&scope=bot"
 
 export function get(path: string) {
