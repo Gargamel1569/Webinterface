@@ -16,9 +16,9 @@
 
 <div class="default-margin"></div>
 
-<BooleanSelector icon="newspaper" title="Publish news messages" description="Let Ree6 publish your news messages after you sent them!" settingName="configuration_autopublish" />
+<BooleanSelector icon="newspaper" title="Publish news messages" description="Let NSZMS publish your news messages after you sent them!" settingName="configuration_autopublish" />
 
-<div class="default-margin"></div>
+<div class="default-margin">NSZMS announcements</div>
 
 <BooleanSelector icon="sync" title="Ree6 announcements" description="Receive announcements published by us." settingName="configuration_news" />
 
